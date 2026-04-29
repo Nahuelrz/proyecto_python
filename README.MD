@@ -1,4 +1,4 @@
-# Restaurante "El Sabor" - Sistema de Gestión
+# Restaurante "La Buena Mesa" - Sistema de Gestión
 
 Sistema de gestión integral para restaurante desarrollado en Python.
 
